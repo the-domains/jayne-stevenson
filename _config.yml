@@ -1,0 +1,28 @@
+name: Jayne Stevenson
+favicon: null
+layout_spectrum: 0.9537753975018859
+typography_spectrum: 0.4502214922104031
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.558999094646424
+  lightness: 0.7221919058356434
+  saturation: 0.1173721132799983
+  rhythmicContrast: 0.3907081070356071
+purpose: []
